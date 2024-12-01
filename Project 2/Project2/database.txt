@@ -1,0 +1,8 @@
+Charlotte Pudding, 100, Pu, 10
+Kaya, 2000, Ka, 20
+Big Mom, 10, BM, 2
+Red Hat, 20000, RH, 30
+Rebecca, 3000, Rb, 10
+Toy Soldier, 400, TS, 5
+Doffy, 10000, CD, 100
+Traffy, 25000, TL, 50

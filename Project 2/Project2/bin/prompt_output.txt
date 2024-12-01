@@ -1,0 +1,86 @@
+1 "Straw Hat" 10000000 SH 100
+
+RECORD ADDED
+Name: Straw Hat
+High Score: 10000000
+Initials: SH
+Plays: 100
+Revenue: $25.00
+-------------------------------------------
+3 "Charlotte Pudding" 3 20
+
+Charlotte Pudding UPDATED
+UPDATE TO PLAYS - VALUE 20
+High Score: 100
+Initials: Pu
+Plays: 20
+Revenue: $5.00
+-------------------------------------------------
+5 asc
+
+RECORDS SORTED ASCENDING
+Big Mom, 10, BM, 2, 0.50
+Charlotte Pudding, 100, Pu, 20, 5.00
+Doffy, 10000, CD, 100, 25.00
+Kaya, 2000, Ka, 20, 5.00
+Rebecca, 3000, Rb, 10, 2.50
+Red Hat, 20000, RH, 30, 7.50
+Straw Hat, 10000000, SH, 100, 25.00
+Toy Soldier, 400, TS, 5, 1.25
+Traffy, 25000, TL, 50, 12.50
+--------------------------------------------------------
+4 Big Mom
+
+RECORD DELETED
+Name: Big Mom
+High Score: 10
+Initials: BM
+Plays: 2
+Revenue: $0.50
+---------------------------------------------------
+2 Traffy
+
+Traffy FOUND
+High Score: 25000
+Initials: TL
+Plays: 50
+Revenue: $12.50
+--------------------------------------------------------
+3 "Traffy" 1 30000000
+
+Traffy UPDATED
+UPDATE TO HIGH SCORE - VALUE 30000000
+High Score: 30000000
+Initials: TL
+Plays: 50
+Revenue: $12.50
+---------------------------------------------------------
+4 Charlotte Pudding
+
+RECORD DELETED
+Name: Charlotte Pudding
+High Score: 100
+Initials: Pu
+Plays: 20
+Revenue: $5.00
+---------------------------------------------------------
+1 "Nami" 100000 Na 10
+
+RECORD ADDED
+Name: Nami
+High Score: 100000
+Initials: Na
+Plays: 10
+Revenue: $2.50
+-----------------------------------------------------------
+5 desc
+
+RECORDS SORTED DESCENDING
+Traffy, 30000000, TL, 50, 12.50
+Toy Soldier, 400, TS, 5, 1.25
+Straw Hat, 10000000, SH, 100, 25.00
+Red Hat, 20000, RH, 30, 7.50
+Rebecca, 3000, Rb, 10, 2.50
+Nami, 100000, Na, 10, 2.50
+Kaya, 2000, Ka, 20, 5.00
+Doffy, 10000, CD, 100, 25.00

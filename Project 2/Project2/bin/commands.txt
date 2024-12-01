@@ -1,0 +1,9 @@
+1 "Straw Hat" 10000000 SH 100
+3 "Charlotte Pudding" 3 20
+5 asc
+4 Big Mom
+2 Traffy
+3 "Traffy" 1 30000000
+4 Charlotte Pudding
+1 "Nami" 100000 Na 10
+5 desc

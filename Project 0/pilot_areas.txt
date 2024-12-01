@@ -1,0 +1,9 @@
+Daphine	10.0
+Russel	10.5
+Porter	12.5
+Blaze	33.0
+Ace	24.5
+Sabo	34.0
+Gracy	4.5
+Frankie	13.0
+Peter	0.5
